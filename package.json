@@ -2,7 +2,5 @@
   "name": "tire-tracker",
   "version": "1.0.0",
   "scripts": {
-    "start": "bunbjbjjb run index.ts",
-    "dev": "bun run index.ts"
   }
 }
